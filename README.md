@@ -94,8 +94,7 @@ precalculated output instead of performing the exercise correctly.
 on the left.
 * Your reference material: peers / Internet / Google.
 * Remember, you can engage in discussion on the Intra Piscine forum.
-* Read the examples carefully. They may require things that are not otherwise spec-
-ified in the subject.
+* Read the examples carefully. They may require things that are not otherwise specified in the subject.
 * And may the Force be with you!
 
 ## Chapter III
