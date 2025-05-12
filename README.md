@@ -143,7 +143,7 @@ your function at the end of your script as explained in the instructions for the
         if __name__ == '__main__':
             data_types()
     
-* Put your file in the ex00 folder in the root directory of your repository.
+* Put your file in the ex00 folder in the src directory of your repository.
 
 ## Chapter V
 
@@ -167,7 +167,7 @@ data about vacancies.
 [ds.csv](https://drive.google.com/file/d/1tDEDTytYaUrfJsXD5z5QvJSb5VNlL-eZ/view), read the data it contains, replace all the comma delimiters with ’\t’ and
 save it to another file ds.tsv. Be careful, your data may contain commas. If you
 replace them, you will corrupt the data.
-* Put your script in the ex01 folder in the root directory of your repository.
+* Put your script in the ex01 folder in the src directory of your repository.
 
 ## Chapter VI
 
